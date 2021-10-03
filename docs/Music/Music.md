@@ -1,5 +1,6 @@
-title: Music
-description: Direct download sites for music.
+### Music Sites
+
+__Sites and applications that allow to pirate music.__
 
 ### DDL Sites and Software
 [__Tidal-Media-Downloader__](https://github.com/yaronzz/Tidal-Media-Downloader) - Tidal downloader. __You need a paid Tidal-HIFI account.__
