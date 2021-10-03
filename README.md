@@ -1,4 +1,4 @@
 <div align="center">
-  <a href=https://das-drive.cyou/<img src="https://cdn.discordapp.com/icons/884155353485434890/33548bb3e5fbef6894febc25a753bb4a.png?size=256" alt="DAS"></a>
+  <a href=https://das-drive.cyou/<img src="img/das.png" alt="DAS"></a>
    <h1 align="center">Digital Acquisition</h1>
     <h3 align="center">Digital Acquisition Server is dedicated to teaching new and old pirates on the topic of piracy and preserving media.</h3>
